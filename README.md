@@ -15,5 +15,5 @@ I enjoy building interfaces, refining user experiences, and understanding the te
 
 ## 🛠️ Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,cs,aws,powershell,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,cs,aws,powershell,vscode,visualstudio,github,postman,windows,apple)](https://skillicons.dev)
 
