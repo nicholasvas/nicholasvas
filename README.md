@@ -13,3 +13,7 @@ I enjoy building interfaces, refining user experiences, and understanding the te
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can’t use an app without mentally giving it an Extreme Makeover: Developer Edition
 
+## 🛠️ Technologies & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,cs,aws,powershell,vscode,github)](https://skillicons.dev)
+
